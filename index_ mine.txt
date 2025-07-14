@@ -76,7 +76,6 @@
     <h2>Education</h2>
     <ul>
       <li>📘 Bachelor of Arts in English - The New College, Chennai</li>
-      <li>🎓 Pursuing MBA - Corez</li>
     </ul>
   </section>
 
