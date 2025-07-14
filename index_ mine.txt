@@ -68,7 +68,7 @@
       I'm Suhail Ahmed, a passionate and detail-oriented individual from Chennai.
       With a background in English Literature and a strong interest in data analysis,
       I'm transitioning into the tech industry with a focus on analytical thinking and
-      continuous growth. Currently pursuing an MBA while building my skills in AI and Data Analytics.
+      continuous growth. Currently building my skills in AI and Data Analytics.
     </p>
   </section>
 
